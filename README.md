@@ -1,3 +1,3 @@
-# misc
+# bash script
 
-Some random stuff that i use often. Maybe useful for you too :)
+Just store my bash script that i used. Might be useful for you?
